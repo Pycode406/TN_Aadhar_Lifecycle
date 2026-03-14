@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+plotly.graph_objects
+plotly.express
+zipfile
