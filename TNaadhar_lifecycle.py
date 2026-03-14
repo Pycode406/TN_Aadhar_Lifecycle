@@ -9,7 +9,7 @@ st.set_page_config(layout="wide")
 
 st.title("Tamil Nadu Aadhaar Operational Analytics Dashboard")
 
-zip_path = r"C:\Users\parth\Downloads\uidai_TN_Datasets.zip"
+zip_path = "uidai_TN_Datasets.zip"
 
 
 # ------------------------------------------------
